@@ -1,0 +1,11 @@
+
+.App{
+ background-color: rgb(9, 11, 17);
+ height: 120vh;
+}
+
+@media screen and (max-width: 768px) {
+    .App{
+        height: 260vh;
+    }
+}
