@@ -2,28 +2,29 @@
 
 .Header{
     position: sticky;
-    text-align: center;
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
     font-family: 'Roboto', sans-serif;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 100;
-    background-color: rgba(29, 55, 90, 0.5);    z-index: 100; 
+    background-color: rgba(81, 108, 143, 0.5);    z-index: 100; 
   }
    
 .button-container {
-  padding:23px;
+  margin: auto;
+  padding:10px;
+  justify-content: center;
+  align-items: center;
+  
 }
 
 .data-button {
+  margin-right: 4rem;
   display: inline-block;
   padding: 10px 24px;
-  font-size: 20px;
-  background-color: #203d5c; 
+  font-size: 15px;
+  background-color: #17212c; 
   color: #fff;
   text-decoration: none;
   border-radius: 25px;
@@ -35,5 +36,18 @@
   background-color: #eb3535; 
   box-shadow: 1px 3px 7px  rgba(240, 139, 139, 0.829);
   transition: 0.3s;
+}
+img{
+  
+ padding: 8px 20px;
+ width: 4%;
+ height: auto;
+
+
+}
+@media screen and (max-width: 768px) {
+  img{
+    width: 7%;
+  }
 }
 

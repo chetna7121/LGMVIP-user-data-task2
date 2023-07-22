@@ -9,13 +9,13 @@ h1 {
 }
 
 .card-container {
+  margin: 20px;
+  margin-right: 4rem;
+  margin-left: 4rem;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 4rem;
   justify-items: center;
-  margin: 20px;
-  margin-right: 4rem;
-  margin-left: 4rem;
 }
 
 .user-card {
@@ -72,7 +72,7 @@ h1 {
 }
   @media screen and (max-width: 768px) {
     .card-container {
-      gap: 4rem;
+      row-gap: 2rem;
       margin-right: 3rem;
       margin-left: 3rem;
     }
