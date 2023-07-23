@@ -22,9 +22,20 @@ h1 {
   background-color: #201f1f;
   color: #ffffff;
   padding: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #4a4b4e;
   border-radius: 50px;
   text-align: center;
   width: 100%;
+  position: relative;
+}
+
+.user-card:hover{
+  transition: 0.5s;
+  background-color: #303030;
+ transform:scale(0.9);
+ 
 }
 
 .avatar-container img {
