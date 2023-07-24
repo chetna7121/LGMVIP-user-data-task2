@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LGMVIP-user-data-task2/static/css/main.6ec49ee0.css",
+    "main.js": "/LGMVIP-user-data-task2/static/js/main.335a64fc.js",
+    "static/js/787.5d2f3e6b.chunk.js": "/LGMVIP-user-data-task2/static/js/787.5d2f3e6b.chunk.js",
+    "static/media/logo.png": "/LGMVIP-user-data-task2/static/media/logo.1459eb60c50ae0b7dc75.png",
+    "index.html": "/LGMVIP-user-data-task2/index.html",
+    "main.6ec49ee0.css.map": "/LGMVIP-user-data-task2/static/css/main.6ec49ee0.css.map",
+    "main.335a64fc.js.map": "/LGMVIP-user-data-task2/static/js/main.335a64fc.js.map",
+    "787.5d2f3e6b.chunk.js.map": "/LGMVIP-user-data-task2/static/js/787.5d2f3e6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ec49ee0.css",
+    "static/js/main.335a64fc.js"
+  ]
+}
